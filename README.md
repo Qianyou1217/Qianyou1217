@@ -1,7 +1,5 @@
 # QIANYOU HUANG
 
-[正體中文](#關於我)｜[English](#about-me)
-
 ## 關於我
 
 安安，我是 Qianyou Huang，喜歡作曲。我可以用國語和英文溝通
